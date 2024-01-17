@@ -1,8 +1,9 @@
 # REMASTERSYS
 RemasterSys was designed to create your own distribution from given source Linux distribution, e.g. so that an additional list of software packages (e.g. especially for Mathematics or Geography) are pre-installed or other specification that should be available after every installation of the ISO image should be available by default. Use-cases are ISO images created for specific institutions or organisations so that it run smoothly in the organizational context without too much manual work of adaptation.
 
-## Remark - Source Repository
-RemasterSys is 2024 a public archive and now read only.
+## Remark - Source Repository and Alternatives
+* RemasterSys is 2024 a public archive and now read only.
+* Pinguy-Builder is an alternative to work with
 
 ## Adaptation to specific Operating System
 <a href="https://github.com/nerun/remastersys/blob/master/LICENSE" target="_blank"><img alt="License: GPLv3" src="https://img.shields.io/badge/License-GPLv3-blue" /></a> <a href="https://www.debian.org/" target="_blank"><img alt="System: Debian 11" src="https://img.shields.io/badge/System-Debian%2011-blue" /></a> <a href="https://github.com/nerun/remastersys/releases" target="_blank"><img alt="Version: 4.9" src="https://img.shields.io/badge/Version-4.9%20beta-brightgreen" /></a>
